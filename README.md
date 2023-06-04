@@ -3,7 +3,7 @@
         <body background="67736863-hand-drawn-vector-seamless-fast-food-pattern-sketch-doodle-food-elements-can-be-used-for-wallpaper.webp" alt="Image" height="100%" width="40%"> 
             <u><h1 style="color:brown" align="center"> INVITATION LETTER</h1></u><hr>
            
-             
+           
             <h1 style="color:red" align="center"> <i> Chatorian's </i> <h1><hr><br><br>
 
             <h1 style="color:black" align="center"> Grand Opening  </h1> <br>
